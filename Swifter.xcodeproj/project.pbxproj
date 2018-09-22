@@ -310,7 +310,7 @@
 				6AE2FF702048011A00302EC4 /* MimeTypes.swift */,
 			);
 			name = Sources;
-			path = ../Sources;
+			path = Sources;
 			sourceTree = "<group>";
 		};
 		7C839B6519422CFF003A6950 = {
